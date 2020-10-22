@@ -1,0 +1,72 @@
+{
+  "todos": [
+    {
+      "title": "afternoon",
+      "id": 3
+    },
+    {
+      "title": "evening",
+      "id": 4
+    },
+    {
+      "title": "morning",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "items": "drink iced coffee",
+      "isChecked": false,
+      "todosId": 3,
+      "id": 11
+    },
+    {
+      "items": "go for walk",
+      "isChecked": false,
+      "todosId": 3,
+      "id": 12
+    },
+    {
+      "items": "haircut",
+      "isChecked": false,
+      "todosId": 3,
+      "id": 13
+    },
+    {
+      "items": "code",
+      "isChecked": false,
+      "todosId": 3,
+      "id": 14
+    },
+    {
+      "items": "happy hour",
+      "isChecked": false,
+      "todosId": 4,
+      "id": 15
+    },
+    {
+      "items": "make dinner",
+      "isChecked": false,
+      "todosId": 4,
+      "id": 16
+    },
+    {
+      "items": "feed cat",
+      "isChecked": false,
+      "todosId": 4,
+      "id": 17
+    },
+    {
+      "items": "clean litter",
+      "isChecked": false,
+      "todosId": 4,
+      "id": 18
+    },
+    {
+      "items": "watch tv",
+      "isChecked": false,
+      "todosId": 4,
+      "id": 19
+    }
+  ]
+}
